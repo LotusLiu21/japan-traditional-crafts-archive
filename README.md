@@ -18,18 +18,29 @@
 
 纯 `index.html`（内联 CSS/JS，无外部依赖、无构建步骤）。浅底日系极简风格，可直接双击打开，或由任意静态服务器托管。
 
-## 本地预览
+## 在线使用（推荐）
 
-直接双击 `index.html`，或：
+本项目已挂 GitHub Pages，**直接打开即为可用的网页工具，无需本地服务器**：
+
+- **根目录直达（单文件）**：👉 https://lotusliu21.github.io/japan-traditional-crafts-archive/
+- **同名中文文件直达**：👉 https://lotusliu21.github.io/japan-traditional-crafts-archive/日本传统工艺GIS地图.html
+
+> 两个地址指向同一份单文件档案，均零依赖、可直接访问或下载双击打开。
+
+## 本地调试（仅修改代码后预览）
+
+直接双击 `index.html` 即可；如需本地服务器：
 
 ```bash
 python3 -m http.server 8000
 # 浏览器打开 http://localhost:8000
 ```
 
+> 本地才用 localhost；线上 Pages 已由 GitHub 托管，直接访问上方地址即可。
+
 ## GitHub Pages
 
-本仓库根目录即 `index.html`。在仓库 **Settings → Pages** 选择 `main` 分支、根目录（`/`）即可发布为公开站点。
+本仓库根目录即 `index.html`。站点已在 **Settings → Pages** 以 `main` 分支、根目录（`/`）发布为公开站点。
 
 ## 数据来源与声明
 
