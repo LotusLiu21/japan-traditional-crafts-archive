@@ -27,16 +27,9 @@
 
 > 两个地址指向同一份单文件档案，均零依赖、可直接访问或下载双击打开。
 
-## 本地调试（仅修改代码后预览）
+## 本地打开
 
-直接双击 `index.html` 即可；如需本地服务器：
-
-```bash
-python3 -m http.server 8000
-# 浏览器打开 http://localhost:8000
-```
-
-> 本地才用 localhost；线上 Pages 已由 GitHub 托管，直接访问上方地址即可。
+直接双击 `index.html` 即可（单文件、零依赖，无需任何服务器）。
 
 ## GitHub Pages
 
