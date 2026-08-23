@@ -2,6 +2,19 @@
 
 一个**单文件、零依赖**的中英日三语交互档案，收录日本经济产业大臣指定的传统工艺品与「人间国宝」（重要无形文化财保持者）。
 
+## 直达链接
+
+### 🔌 联机（需联网）
+- 根目录直达（单文件）：👉 https://lotusliuxy.github.io/japan-traditional-crafts-archive/
+- 同名中文文件直达：👉 https://lotusliuxy.github.io/japan-traditional-crafts-archive/日本传统工艺GIS地图.html
+- 仓库主页：https://github.com/LotusLiuXY/japan-traditional-crafts-archive
+
+### 💾 不联机（本地，无需网络）
+- 下载 / 克隆后，直接双击 `index.html` 即可（单文件、零依赖，无需任何服务器）
+- 或点击本 README 同级相对链接：[index.html](./index.html)
+
+> 两个在线地址指向同一份单文件档案，均零依赖、可直接访问或下载双击打开；同一相对链接在本地与 GitHub 在线查看时均有效。
+
 ## 功能
 
 - **三视图切换**：地理地图 / 工艺数据库 / 匠人档案
@@ -17,23 +30,6 @@
 ## 技术
 
 纯 `index.html`（内联 CSS/JS，无外部依赖、无构建步骤）。浅底日系极简风格，可直接双击打开，或由任意静态服务器托管。
-
-## 在线使用（推荐）
-
-本项目已挂 GitHub Pages，**直接打开即为可用的网页工具，无需本地服务器**：
-
-- **根目录直达（单文件）**：👉 https://lotusliu21.github.io/japan-traditional-crafts-archive/
-- **同名中文文件直达**：👉 https://lotusliu21.github.io/japan-traditional-crafts-archive/日本传统工艺GIS地图.html
-
-> 两个地址指向同一份单文件档案，均零依赖、可直接访问或下载双击打开。
-
-## 本地打开
-
-直接双击 `index.html` 即可（单文件、零依赖，无需任何服务器）。
-
-## GitHub Pages
-
-本仓库根目录即 `index.html`。站点已在 **Settings → Pages** 以 `main` 分支、根目录（`/`）发布为公开站点。
 
 ## 数据来源与声明
 
