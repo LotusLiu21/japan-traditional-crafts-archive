@@ -4,17 +4,17 @@
 
 ## 直达链接
 
-### 🔌 联机（需联网）
+🔌 联机（需联网）
+
 - 根目录直达（单文件）：👉 https://lotusliuxy.github.io/japan-traditional-crafts-archive/
 - 同名中文文件直达：👉 https://lotusliuxy.github.io/japan-traditional-crafts-archive/日本传统工艺GIS地图.html
 - 仓库主页：https://github.com/LotusLiuXY/japan-traditional-crafts-archive
 
-### 💾 不联机（本地，无需网络）
-- 下载 / 克隆后，直接双击 `index.html` 即可（单文件、零依赖，无需任何服务器）
-- 或点击本 README 同级相对链接：[index.html](./index.html)
+💾 不联机（本地，无需网络）
+
+下载 / 克隆后，直接双击 `index.html` 即可（单文件、零依赖，无需任何服务器）；或点击本 README 同级相对链接：[index.html](./index.html)。
 
 > 两个在线地址指向同一份单文件档案，均零依赖、可直接访问或下载双击打开；同一相对链接在本地与 GitHub 在线查看时均有效。
-
 ## 功能
 
 - **三视图切换**：地理地图 / 工艺数据库 / 匠人档案
